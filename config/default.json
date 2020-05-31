@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://sermonic:yJWxpMJDuNB8PGFo@cluster0-fobwr.mongodb.net/test?retryWrites=true&w=majority"
+}
