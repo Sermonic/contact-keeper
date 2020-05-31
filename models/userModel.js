@@ -16,9 +16,9 @@ const userSchema = mongoose.Schema({
     require: true,
   },
   date: {
-    type: Date,
+    type: String,
     require: true,
-    default: moment().format(),
+    default: moment().format("MMM Do YY"),
   },
 });
 
