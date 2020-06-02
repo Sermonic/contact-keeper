@@ -7,5 +7,3 @@
 - Context API & App Level State
 - MERN - MongoDB, Express React, Node
 - Build a Custom API With JWT Authentication
-- Redux - Reducers, Actions, etc
-- Basic Animation
