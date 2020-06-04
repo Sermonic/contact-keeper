@@ -49,6 +49,9 @@ export const Login = (props) => {
       <h1>
         Account <span className="text-primary">Login</span>
       </h1>
+      <h3>For Testing</h3>
+      <h4>Email: user@g.com</h4>
+      <h4>Password: test1234</h4>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
           <label htmlFor="email">Email Address</label>

@@ -2,7 +2,7 @@
 
 /* Global Styles */
 :root {
-  --primary-color: #003699;
+  --primary-color: #292929;
   --dark-color: #333333;
   --light-color: #f4f4f4;
   --danger-color: #dc3545;
@@ -194,6 +194,7 @@ img {
   margin-right: 0.5rem;
   transition: opacity 0.2s ease-in;
   outline: none;
+  border-radius: 0.3rem;
 }
 
 .btn-link {
@@ -245,6 +246,8 @@ img {
 .alert-light {
   background: var(--light-color);
   color: #333;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px -15px rgba(0, 0, 0, 0.75);
 }
 
 .btn-dark,
@@ -296,6 +299,7 @@ img {
 /* Forms */
 input {
   margin: 1.2rem 0;
+  border-radius: 0.3rem;
 }
 
 .form-text {
